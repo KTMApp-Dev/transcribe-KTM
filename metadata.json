@@ -1,0 +1,5 @@
+{
+  "name": "Aura Transcribe AI",
+  "description": "An intelligent transcription service powered by Gemini. Upload audio/video files or provide a URL to get fast, accurate transcripts in markdown format. Customize transcription settings for optimal results.",
+  "requestFramePermissions": []
+}
